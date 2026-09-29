@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rehman</string>
+    <string name="engine_subtitle">All-in-One Social &amp; Movie Downloader</string>
+    <string name="edition_tag">HD / 4K PRO</string>
+    <string name="tab_all">All Downloads</string>
+    <string name="tab_active">Active</string>
+    <string name="tab_expired">Link Expired</string>
+    <string name="tab_completed">Completed</string>
+    <string name="tab_bookmarks">Bookmarks</string>
+    <string name="state_downloading">DOWNLOADING</string>
+    <string name="state_paused">PAUSED</string>
+    <string name="state_link_expired">LINK EXPIRED</string>
+    <string name="state_completed">COMPLETED</string>
+    <string name="state_failed">FAILED</string>
+    <string name="action_renew_link">Renew Link / Update URL</string>
+    <string name="action_simulate_403">Simulate 403 Expiry</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_add_task">New Download</string>
+    <string name="dialog_renew_title">Manual Link Override</string>
+    <string name="dialog_renew_desc">If the original stream token expired and automatic renewal cannot refresh it, paste a verified direct stream URL. The engine will validate Content-Length and MIME type before resuming at byte offset.</string>
+</resources>

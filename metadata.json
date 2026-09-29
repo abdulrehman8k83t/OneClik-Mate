@@ -1,0 +1,6 @@
+{
+  "name": "Rehman",
+  "description": "Rehman All-in-One Social & Movie Downloader (4K/HD) with Auto Platform Detection, One-Click Bookmarks, and Anti-Expiration Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
